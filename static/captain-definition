@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 2,
+  "dockerfileLines": [
+    "FROM nginx", 
+    "COPY . /usr/share/nginx/html"
+  ]
+}
