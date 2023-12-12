@@ -1,5 +1,5 @@
 
-const HOSTNAME = 'https://3135-164-92-139-64.ngrok-free.app/api/v2/';//'https://6e3a-164-92-139-64.eu.ngrok.io/api/v2/';
+const HOSTNAME = 'https://1631-164-92-139-64.ngrok-free.app/api/v2/';//'https://6e3a-164-92-139-64.eu.ngrok.io/api/v2/';
 
 export const fetch2 = function(method, url, obj){
     let m = method || 'GET';
